@@ -1,0 +1,11 @@
+var nombre="Marcela";
+var apellido="Sanders";
+console.log(nombre+" "+apellido);
+alert("el nombre y apellido es "+ nombre+" "+ apellido);
+var numero_1=4;
+var numero_2=5;
+var suma=numero_1+numero_2;
+console.log(suma);
+var resultado=suma+2;
+console.log(resultado);
+alert("el resultado de la suma total es: " + resultado);
